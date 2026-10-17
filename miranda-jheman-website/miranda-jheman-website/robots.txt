@@ -1,0 +1,6 @@
+# Permite a todos los buscadores rastrear el sitio completo.
+User-agent: *
+Allow: /
+
+# Ubicación del mapa del sitio para facilitar la indexación.
+Sitemap: https://www.mirandajheman.com/sitemap.xml
